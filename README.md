@@ -6,11 +6,17 @@
 
 <br/>
 
+<!-- Open to Work Banner -->
+<img src="https://img.shields.io/badge/🟢 Open%20To%20Work-Internships%20%26%20Collaborations-brightgreen?style=for-the-badge"/>
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-ahmed-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__sameer__ahmed_)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/__sameer_ahmed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameersameer252@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SameerAhmedDev/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sameer_ahmed)
 
 <br/>
 
@@ -31,6 +37,7 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 - 🌱 Always learning something new in tech
 - 🤝 Open to collaborations and exciting ideas
 - 💻 Check out my work on [LeetCode](https://leetcode.com/u/SameerAhmedDev/)
+- 📝 I write articles on [Dev.to](https://dev.to/sameer_ahmed)
 - ⚡ Fun fact: I debug better at night ☕
 
 <br clear="right"/>
@@ -41,30 +48,56 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sameer+Ahmed+👋;Software+Developer+%7C+Problem+Solver;Always+learning%2C+always+building+🚀;Open+to+collabs+%26+internships!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sameer+Ahmed+👋;Software+Developer+%7C+Problem+Solver;Always+learning%2C+always+building+🚀;Open+to+collabs+%26+internships!;273%2B+LeetCode+Problems+Solved+💪)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
+### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| Topic | Progress | Status |
+|-------|----------|--------|
+| Data Structures & Algorithms | ████████░░ 80% | 🔥 Active |
+| System Design | ██████░░░░ 60% | 📖 Learning |
+| React Advanced Patterns | ███████░░░ 70% | 🔥 Active |
+| Node.js & REST APIs | ████████░░ 80% | 🔥 Active |
+| Database Design | █████░░░░░ 50% | 📖 Learning |
+
+</div>
 
 ---
 
@@ -106,7 +139,7 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -126,6 +159,64 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 
 ---
 
+## ⏱️ WakaTime Coding Stats
+
+<div align="center">
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sameer_ahmed&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@sameer_ahmed)
+
+> 💡 **Setup:** Create a free account at [wakatime.com](https://wakatime.com) → Install the VS Code extension → Stats auto-populate here!
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+> 🚀 Start writing on [Dev.to](https://dev.to) and your latest articles will auto-appear here!  
+> Setup: Create account → go to your GitHub Action → add the blog post workflow
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+## 🌍 Visitor Map
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=sameer-sde&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://profile-counter.glitch.me/sameer-sde/count.svg" alt="Visitor Count"/>
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+```javascript
+const sameer = {
+  name: "Sameer Ahmed",
+  role: "Software Developer",
+  code: ["C++", "Java", "JavaScript", "Python"],
+  tools: ["React", "Node.js", "MongoDB", "Git"],
+  funFacts: [
+    "I debug better at night 🌙",
+    "273+ LeetCode problems solved 💪",
+    "Coffee = Code fuel ☕",
+    "I turn ideas into working projects 🚀"
+  ],
+  currentGoal: "Land an SDE internship 🎯",
+  openTo: "Collaborations, internships & open source!"
+};
+```
+
+---
+
 ## 💬 Dev Quote of the Day
 
 <div align="center">
@@ -137,6 +228,8 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 ---
 
 <div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing Together!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
