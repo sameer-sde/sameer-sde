@@ -1,10 +1,10 @@
 <div align="center">
 
+## 🚀 Hi there, I'm Sameer Ahmed!
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sameer%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=22&descColor=a78bfa" width="100%"/>
 
 <br/>
-
-## 🚀 Hi there, I'm Sameer Ahmed!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-ahmed-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__sameer__ahmed_)
