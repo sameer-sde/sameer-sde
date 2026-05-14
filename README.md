@@ -10,6 +10,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__sameer__ahmed_)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/__sameer_ahmed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameersameer252@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SameerAhmedDev/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sameer-sde&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -17,13 +22,28 @@
 
 ## ⚡ About Me
 
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 I'm a passionate **Software Developer** who loves building things that actually work (and sometimes look good too 😄).  
 I enjoy exploring new technologies, working on cool projects, and turning ideas into reality — one commit at a time.
 
 - 🔨 Currently working on **building projects that matter**
 - 🌱 Always learning something new in tech
 - 🤝 Open to collaborations and exciting ideas
+- 💻 Check out my work on [LeetCode](https://leetcode.com/u/SameerAhmedDev/)
 - ⚡ Fun fact: I debug better at night ☕
+
+<br clear="right"/>
+
+---
+
+## 🌊 Typing Animation
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sameer+Ahmed+👋;Software+Developer+%7C+Problem+Solver;Always+learning%2C+always+building+🚀;Open+to+collabs+%26+internships!)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -76,11 +96,41 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sameer-sde&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sameer-sde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SameerAhmedDev?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/SameerAhmedDev/)
+
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
