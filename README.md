@@ -46,6 +46,19 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 
 ---
 
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎮 [Brick Breaker Game](https://github.com/sameer-sde/brick-breaker-game) | Browser-based brick breaker with smooth gameplay, collision detection & score tracking | HTML, CSS, JavaScript |
+| 🌤️ [Omniverse Weather App](https://github.com/sameer-sde/omniverse-weather-app) | Glassmorphism weather dashboard with charts, AQI, UV index & AI tips | JavaScript |
+| 🎯 [Tic-Tac-Toe Advanced](https://github.com/sameer-sde/Tie-Tac-Toe-Advanced) | AI-powered Tic Tac Toe with Minimax algorithm, multiple difficulty levels & themes | JavaScript |
+| 💪 [BMR & TDEE Estimator](https://github.com/sameer-sde/BMR-TDEE-Estimator) | Smart calculator to discover your daily energy needs and fuel your body right | JavaScript |
+| ⚛️ [Physics Helper](https://github.com/sameer-sde/PhysicsHelper) | Modular C++ program for Mechanics, Kinematics & Gravitation calculations | C++ |
+| 📅 [Date Difference Calculator](https://github.com/sameer-sde/DataDifferenceCalculator) | C++ app that computes days/years between two dates using Julian Day formula | C++ |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
