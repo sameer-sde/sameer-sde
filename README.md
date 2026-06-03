@@ -1,16 +1,15 @@
 <div align="center">
 
-## 🚀 Hi there, I'm Sameer Ahmed!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sameer%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=22&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sameer%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20Builder%20%7C%20Open%20Source&descAlignY=58&descSize=20&descColor=a78bfa" width="100%"/>
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-chi-two-1deo18r4x1.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-ahmed-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SameerAhmedDev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameersameer252@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__sameer__ahmed_)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/__sameer_ahmed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ameersameer252@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SameerAhmedDev/)
 
 <br/>
 
@@ -24,13 +23,18 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm a passionate **Software Developer** who loves building things that actually work (and sometimes look good too 😄).  
-I enjoy exploring new technologies, working on cool projects, and turning ideas into reality — one commit at a time.
+I'm a **Software Engineer** at MJCET, Hyderabad — obsessed with building systems that are fast, correct, and elegant under pressure.
 
-- 🔨 Currently working on **building projects that matter**
-- 🌱 Always learning something new in tech
-- 🤝 Open to collaborations and exciting ideas
-- 💻 Check out my work on [LeetCode](https://leetcode.com/u/SameerAhmedDev/)
+I don't just use libraries — I build from scratch:
+- ⚡ **71,000 RPS** fraud detection with XGBoost + ONNX + Go
+- 🔀 **2 PRs merged** into 12K+ and 3K+ star OSS repos
+- 💻 **300+** LeetCode problems solved
+- 🌍 **4 AI applications** deployed on Vercel
+
+- 🔨 Currently building **distributed systems & AI apps**
+- 🌱 Studying from **Stripe & Cloudflare engineering blogs**
+- 🤝 Open to **SWE internship opportunities**
+- 🌐 Check out my **[Portfolio](https://portfolio-chi-two-1deo18r4x1.vercel.app)**
 - ⚡ Fun fact: I debug better at night ☕
 
 <br clear="right"/>
@@ -41,9 +45,45 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sameer+Ahmed+👋;Software+Developer+%7C+Problem+Solver;Always+learning%2C+always+building+🚀;Open+to+collabs+%26+internships!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sameer+Ahmed+👋;Systems+Engineer+%7C+Open+Source+Contributor;71K+RPS+%7C+ML+Inference+%7C+Vector+Search;Building+from+scratch%2C+with+real+benchmarks+🚀;Open+to+SWE+Internships!)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+## 🏆 Featured Projects — Systems Engineering
+
+| Project | Description | Stack | Highlight |
+|---------|-------------|-------|-----------|
+| 🛡️ [Sentinel](https://github.com/sameer-sde/sentinel) | Real-time fraud detection system | Go · Python · XGBoost · ONNX · AWS | **71K RPS · p95 <6ms** |
+| ⚡ [Rate Limiter](https://github.com/sameer-sde/ratelimit) | Distributed rate limiter with 4 atomic algorithms | Go · Redis · Lua · Docker · GCP | **18,769 req/s · 61% throughput ↑** |
+| 🔍 [Vektr](https://github.com/sameer-sde/vektr) | RAG engine with hand-rolled HNSW vector index | Java · Python · Undertow | **recall@10 = 0.984** |
+
+## 🤖 Featured Projects — AI Applications
+
+| Project | Description | Stack | Highlight |
+|---------|-------------|-------|-----------|
+| 🧠 [NexusNews](https://github.com/sameer-sde/nexusnews) | AI war room intelligence dashboard | React · Claude AI · NewsAPI | **35+ pages · Live data** |
+| 🔰 [GlobalPD](https://github.com/sameer-sde/globalpd) | International police ops platform | React · Claude AI · Vite | **18 pages · Role auth** |
+| 🕯️ [Deadline Detective](https://github.com/sameer-sde/deadline-detective) | 1920s AI murder mystery game | React · Claude AI · Canvas | **3 game modes · Voice** |
+| 🛒 [StreetMart](https://github.com/sameer-sde/streetmart) | Hyperlocal vegetable marketplace PWA | React · PWA · Web Speech | **10 languages · Offline** |
+
+## 🌟 Open Source Contributions
+
+| Repository | Stars | Contribution |
+|-----------|-------|-------------|
+| [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j/pull/5341) | ⭐ 12K+ | TextSegment deduplication in RAG pipeline — PR #5341 merged |
+| [linkedin/cruise-control](https://github.com/linkedin/cruise-control/pull/2377) | ⭐ 3K+ | Fixed EasyMock test lifecycle bug — PR #2377 merged |
+
+## 🎮 Other Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎮 [Brick Breaker Game](https://github.com/sameer-sde/brick-breaker-game) | Browser-based brick breaker with collision detection | HTML · CSS · JavaScript |
+| 🌤️ [Omniverse Weather App](https://github.com/sameer-sde/omniverse-weather-app) | Glassmorphism weather dashboard with AI tips | JavaScript |
+| 🎯 [Tic-Tac-Toe Advanced](https://github.com/sameer-sde/Tie-Tac-Toe-Advanced) | AI-powered Tic Tac Toe with Minimax algorithm | JavaScript |
+| 💪 [BMR & TDEE Estimator](https://github.com/sameer-sde/BMR-TDEE-Estimator) | Smart daily energy needs calculator | JavaScript |
+| ⚛️ [Physics Helper](https://github.com/sameer-sde/PhysicsHelper) | Modular C++ Mechanics & Kinematics calculator | C++ |
 
 ---
 
@@ -53,55 +93,40 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Frontend**
+**Backend & Infrastructure**
 
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**ML & AI**
+
+![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
+**Frontend & Tools**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Tools & Others**
-
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </div>
-
----
-
-## 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎮 [Brick Breaker Game](https://github.com/sameer-sde/brick-breaker-game) | Browser-based brick breaker with smooth gameplay, collision detection & score tracking | HTML, CSS, JavaScript |
-| 🌤️ [Omniverse Weather App](https://github.com/sameer-sde/omniverse-weather-app) | Glassmorphism weather dashboard with charts, AQI, UV index & AI tips | JavaScript |
-| 🎯 [Tic-Tac-Toe Advanced](https://github.com/sameer-sde/Tie-Tac-Toe-Advanced) | AI-powered Tic Tac Toe with Minimax algorithm, multiple difficulty levels & themes | JavaScript |
-| 💪 [BMR & TDEE Estimator](https://github.com/sameer-sde/BMR-TDEE-Estimator) | Smart calculator to discover your daily energy needs and fuel your body right | JavaScript |
-| ⚛️ [Physics Helper](https://github.com/sameer-sde/PhysicsHelper) | Modular C++ program for Mechanics, Kinematics & Gravitation calculations | C++ |
-| 📅 [Date Difference Calculator](https://github.com/sameer-sde/DataDifferenceCalculator) | C++ app that computes days/years between two dates using Julian Day formula | C++ |
 
 ---
 
@@ -125,6 +150,20 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 <div align="center">
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sameer-sde&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sameer-sde/sameer-sde/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sameer-sde/sameer-sde/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sameer-sde/sameer-sde/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -161,6 +200,8 @@ I enjoy exploring new technologies, working on cool projects, and turning ideas 
 ---
 
 <div align="center">
+
+### 🌐 Portfolio: [portfolio-chi-two-1deo18r4x1.vercel.app](https://portfolio-chi-two-1deo18r4x1.vercel.app)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
