@@ -23,7 +23,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm a **Software Engineer** at MJCET, Hyderabad — obsessed with building systems that are fast, correct, and elegant under pressure.
+I'm a **3rd Year CS Student** at MJCET, Hyderabad — obsessed with building systems that are fast, correct, and elegant under pressure.
 
 I don't just use libraries — I build from scratch:
 - ⚡ **71,000 RPS** fraud detection with XGBoost + ONNX + Go
