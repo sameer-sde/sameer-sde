@@ -27,7 +27,7 @@ I'm a **3rd Year CS Student** at Osmania University, Hyderabad — obsessed with
 
 I don't just use libraries — I build from scratch:
 - ⚡ **71,000 RPS** fraud detection with XGBoost + ONNX + Go
-- 🔀 **2 PRs merged** into 12K+ and 3K+ star OSS repos
+- 🔀 **3 PRs merged** into 90K+, 12K+, and 3K+ star OSS repos
 - 💻 **300+** LeetCode problems solved
 - 🌍 **4 AI applications** deployed on Vercel
 
@@ -56,6 +56,7 @@ I don't just use libraries — I build from scratch:
 | Project | Description | Stack | Highlight |
 |---------|-------------|-------|-----------|
 | 🛡️ [Sentinel](https://github.com/sameer-sde/sentinel) | Real-time fraud detection system | Go · Python · XGBoost · ONNX · AWS | **71K RPS · p95 <6ms** |
+| 🔀 [RaftKV](https://github.com/sameer-sde/raftKv) | Distributed key-value store with Raft consensus | Python | **38.9 ops/sec · 5.9ms re-election** |
 | ⚡ [Rate Limiter](https://github.com/sameer-sde/ratelimit) | Distributed rate limiter with 4 atomic algorithms | Go · Redis · Lua · Docker · GCP | **18,769 req/s · 61% throughput ↑** |
 | 🔍 [Vektr](https://github.com/sameer-sde/vektr) | RAG engine with hand-rolled HNSW vector index | Java · Python · Undertow | **recall@10 = 0.984** |
 
@@ -72,6 +73,7 @@ I don't just use libraries — I build from scratch:
 
 | Repository | Stars | Contribution |
 |-----------|-------|-------------|
+| [vllm-project/vllm](https://github.com/vllm-project/vllm/pull/54832) | ⭐ 90K+ | Per-modality LoRA token-count logic for Phi-4-multimodal — PR #54832 merged |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j/pull/5341) | ⭐ 12K+ | TextSegment deduplication in RAG pipeline — PR #5341 merged |
 | [linkedin/cruise-control](https://github.com/linkedin/cruise-control/pull/2377) | ⭐ 3K+ | Fixed EasyMock test lifecycle bug — PR #2377 merged |
 
