@@ -27,10 +27,12 @@ I'm a **3rd Year CS Student** at Osmania University, Hyderabad — obsessed with
 
 I don't just use libraries — I build from scratch:
 - ⚡ **71,000 RPS** fraud detection with XGBoost + ONNX + Go
+- 🔬 **Phantom**: independently found **2 real bugs in LMCache**; on PyPI (`pip install phantom-kv`)
 - 🔀 **3 PRs merged** into 90K+, 12K+, and 3K+ star OSS repos
 - 💻 **300+** LeetCode problems solved
 - 🌍 **4 AI applications** deployed on Vercel
 
+- 🛒 Founder of **[Flock](https://www.flockgrocery.in)**: group grocery buying for housing societies
 - 🔨 Currently building **distributed systems & AI apps**
 - 🌱 Studying from **Stripe & Cloudflare engineering blogs**
 - 🤝 Open to **SWE internship opportunities**
@@ -55,6 +57,7 @@ I don't just use libraries — I build from scratch:
 
 | Project | Description | Stack | Highlight |
 |---------|-------------|-------|-----------|
+| 🔬 [Phantom](https://github.com/sameer-sde/phantom-kv) | Deterministic testing for LLM-serving KV caches (vLLM, LMCache) | Python · vLLM · LMCache · PyPI | **2 real LMCache bugs found** |
 | 🛡️ [Sentinel](https://github.com/sameer-sde/sentinel) | Real-time fraud detection system | Go · Python · XGBoost · ONNX · AWS | **71K RPS · p95 <6ms** |
 | 🔀 [RaftKV](https://github.com/sameer-sde/raftKv) | Distributed key-value store with Raft consensus | Python | **38.9 ops/sec · 5.9ms re-election** |
 | ⚡ [Rate Limiter](https://github.com/sameer-sde/ratelimit) | Distributed rate limiter with 4 atomic algorithms | Go · Redis · Lua · Docker · GCP | **18,769 req/s · 61% throughput ↑** |
@@ -69,6 +72,12 @@ I don't just use libraries — I build from scratch:
 | 🕯️ [Deadline Detective](https://github.com/sameer-sde/deadline-detective) | 1920s AI murder mystery game | React · Claude AI · Canvas | **3 game modes · Voice** |
 | 🛒 [StreetMart](https://github.com/sameer-sde/streetmart) | Hyperlocal vegetable marketplace PWA | React · PWA · Web Speech | **10 languages · Offline** |
 
+## 🚀 Entrepreneurship
+
+| Venture | Description | Stack | Role |
+|---------|-------------|-------|------|
+| 🛒 [Flock](https://www.flockgrocery.in) | Group grocery buying for Hyderabad housing societies | React · Supabase · PostgreSQL · Vercel | **Founder** |
+
 ## 🌟 Open Source Contributions
 
 | Repository | Stars | Contribution |
@@ -76,6 +85,7 @@ I don't just use libraries — I build from scratch:
 | [vllm-project/vllm](https://github.com/vllm-project/vllm/pull/54832) | ⭐ 90K+ | Per-modality LoRA token-count logic for Phi-4-multimodal — PR #54832 merged |
 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j/pull/5341) | ⭐ 12K+ | TextSegment deduplication in RAG pipeline — PR #5341 merged |
 | [linkedin/cruise-control](https://github.com/linkedin/cruise-control/pull/2377) | ⭐ 3K+ | Fixed EasyMock test lifecycle bug — PR #2377 merged |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache/pull/6540) | — | Phantom's A/B evidence on fix PRs [#6540](https://github.com/LMCache/LMCache/pull/6540) and [#6106](https://github.com/LMCache/LMCache/pull/6106); acknowledged by the PR author |
 
 ## 🎮 Other Projects
 
